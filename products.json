@@ -1,0 +1,39 @@
+[
+    {
+        "name": "iphone5s",
+        "price": 154,
+        "featured":true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone14",
+        "price": 1154,
+        "featured":true,
+        "company": "apple"
+    },
+    {
+        "name": "samsungs22",
+        "price": 1154,
+        "company": "samsung"
+    },
+    {
+        "name": "ioswatch",
+        "price": 204,
+        "company": "apple"
+    },
+    {
+        "name": "s20",
+        "price": 304,
+        "company": "samsung"
+    },
+    {
+        "name": "dell gaming",
+        "price": 454,
+        "company": "dell"
+    },
+    {
+        "name": "mi10",
+        "price": 344,
+        "company": "mi"
+    }
+]
